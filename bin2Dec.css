@@ -1,0 +1,46 @@
+body{
+    width:380px;
+    font-size: large;
+    margin-left: 580px;
+    margin-top: 250px;
+    margin-bottom: 400px;
+    margin-right: 400px;
+    border: 5px;
+    border-color: black;
+    border-width: 3px;
+    border-style:  solid;
+    border-radius: 25px;
+    
+}
+
+
+#convert{
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 10px;;
+    
+}
+
+.secHead{
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 60px;
+    
+    
+}
+
+#bin{
+    padding-bottom: 10px;
+    padding-left: 20px;
+    font-size: large;
+}
+#dec{
+    font-size: large;
+    padding-left: 20px;
+}
+
+.heading{
+    padding-left: 120px;
+    font: bold;
+    align-content: center;
+}
